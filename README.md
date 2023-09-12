@@ -1,0 +1,2 @@
+# wiki
+Notes for programming
