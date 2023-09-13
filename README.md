@@ -13,3 +13,6 @@ Upload to server - ssh-copy-id -i ~/.ssh/id_rsa.pub {user@host}
 <h4>SQLx</h4>
 A mixture between traditional ORM and raw sql<br/>
 https://github.com/jmoiron/sqlx<br/>
+<h4>GORM</h4>
+Traditional ORM, works fine, but not as good as Django ORM<br/>
+https://gorm.io/index.html<br/>
